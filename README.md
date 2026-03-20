@@ -14,7 +14,8 @@ This is a real-time port scanning tool using nmap. It helps you discover active 
 
 ## How to Use
 1. Clone the repo: git clone https://github.com/yourusername/nmap-port-scanning.git
-2. Run: nmap -sP 192.168.1.0/24
+2. Run: nmap -sP 192.168.64.2/24
+3. version nmap -sV 192.168.64.1 #showing port versions
 
 ## Demo
 Watch the live demo: [Watch Demo](https://example.com/demo) pending/////
